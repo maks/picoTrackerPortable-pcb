@@ -1,4 +1,5 @@
 (fp_lib_table
   (version 7)
   (lib (name "Cherry MX LP")(type "KiCad")(uri "${KIPRJMOD}/lib/MX_LP.pretty")(options "")(descr ""))
+  (lib (name "GateronSwitch")(type "KiCad")(uri "${KIPRJMOD}/GateronSwitch.pretty")(options "")(descr ""))
 )
